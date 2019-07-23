@@ -9,6 +9,9 @@ public class HelloGit {
         System.out.println("git你好5...");
         System.out.println("git你好6...");
         System.out.println("git你好7...");
-
+        int x=6;
+        int y=6;
+        System.out.println(x*y);
     }
+
 }
