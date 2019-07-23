@@ -9,6 +9,6 @@ public class HelloGit {
         System.out.println("git你好5...");
         System.out.println("git你好6...");
         System.out.println("git你好7...");
-        System.out.println("git你好8...");
+
     }
 }
