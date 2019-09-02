@@ -8,5 +8,6 @@ public class NiuBi {
         System.out.println("55开牛逼");
         System.out.println("55开牛逼");
         System.out.println("55开牛逼");
+        System.out.println("6666666666666666666");
     }
 }
